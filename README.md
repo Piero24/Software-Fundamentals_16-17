@@ -1,4 +1,4 @@
-[![Last modified](https://img.shields.io/aur/last-modified/F.SW16-17)] (10-Aug-2021)
+[![Last modified](https://img.shields.io/aur/last-modified/F.SW16-17)](10-Aug-2021)
 # F.SW16-17
 
 > anno accademico 2016-2017 (unipd)
