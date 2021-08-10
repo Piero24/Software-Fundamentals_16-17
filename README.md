@@ -7,11 +7,7 @@
 ---
 **Multilanguage**
 
-*Versioni in altre lingue:*
-
-[English](https://github.com/Piero24/F.SW16-17/blob/main/README-EN.md)
-
-[Italiano](https://github.com/Piero24/F.SW16-17/blob/main/README.md)
+*Versioni in altre lingue:* [English](https://github.com/Piero24/F.SW16-17/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/F.SW16-17/blob/main/README.md)
 
 ## Esercizi di preparazione all'esame di Fondamenti di Informatica
 
