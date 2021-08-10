@@ -8,7 +8,7 @@
 **Multilanguage**
 
 *Versions in other languages:
-[English](https://github.com/Piero24/README.md-EN-IT/blob/main/template-README.md).
+[English](https://github.com/Piero24/F.SW16-17/blob/main/README-EN.md).
 [Italiano](https://github.com/Piero24/F.SW16-17/blob/main/README.md).
 
 ## Preparation exercises for the exam of Fundamentals of Computer Science
