@@ -26,7 +26,7 @@ E' inoltre presente una copia della simulazione d'esame fornita dal docente agli
 Questi esercizi devono essere utilizzati ESCLUSIVAMENTE per prepararsi in vista dell'esame.
 
 
-**NON SONO IN ALCUN MODO RESPONSABILE DELL?UTILIZZO INPROPRIO DEL PRESENTE MATERIALE.**
+**NON SONO IN ALCUN MODO RESPONSABILE DELL'UTILIZZO INPROPRIO DEL PRESENTE MATERIALE.**
 
 
 NO basarsi esclusivamente sui seguenti esercizi per la preparazione.
