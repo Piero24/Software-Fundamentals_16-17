@@ -29,7 +29,7 @@ Questi esercizi devono essere utilizzati ESCLUSIVAMENTE per prepararsi in vista 
 **NON SONO IN ALCUN MODO RESPONSABILE DELL'UTILIZZO INPROPRIO DEL PRESENTE MATERIALE.**
 
 
-NO basarsi esclusivamente sui seguenti esercizi per la preparazione.
+NON basarsi esclusivamente sui seguenti esercizi per la preparazione.
 In quanto il programma del corso potrebbe variare durante gli anni.
 Usare questo materiale solo ed esclusivamente per esercitarsi.
 
