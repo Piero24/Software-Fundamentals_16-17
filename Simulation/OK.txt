@@ -1,0 +1,6 @@
+SIZE = 8
+ENTRIES: british/london easyjet/leeds easyjet/london easyjet/leeds easyjet/london norwegian/oslo ryanair/dublin vueling/barcelona wingsair/berlin wizzair/warshaw 
+VALUES: london leeds london oslo dublin barcelona berlin warshaw 
+VALUESET: barcelona berlin dublin leeds london oslo warshaw 
+REMOVEALL: british/london easyjet/london easyjet/leeds norwegian/oslo ryanair/dublin vueling/barcelona wingsair/berlin wizzair/warshaw 
+SIZE = 0
