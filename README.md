@@ -13,5 +13,5 @@ I AM IN NO WAY RESPONSIBLE FOR INCORRECT USE OF THE FOLLOWING MATERIAL!
 
 Collection of exercises to prepare for the programming test of computer science fundamentals and computer engineering (unipd).
 
-## Autori e Copyright
+## Authors and Copyright
 Pietrobon Andrea
