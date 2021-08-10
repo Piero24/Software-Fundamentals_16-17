@@ -7,9 +7,7 @@
 ---
 **Multilanguage**
 
-*Versions in other languages:
-[English](https://github.com/Piero24/F.SW16-17/blob/main/README-EN.md).
-[Italiano](https://github.com/Piero24/F.SW16-17/blob/main/README.md).
+*Versions in other languages:* [English](https://github.com/Piero24/F.SW16-17/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/F.SW16-17/blob/main/README.md)
 
 ## Preparation exercises for the exam of Fundamentals of Computer Science
 
@@ -42,7 +40,7 @@ Use this material only and exclusively for practice.
 There are one exercise by type.
 
 - Lists
-- Code
+- Queue
 - Double Queues
 - Maps
 - Dictionaries
