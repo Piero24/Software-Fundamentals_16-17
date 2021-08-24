@@ -22,6 +22,7 @@ public class ArQueue implements Queue
             }
 
          }
+         
          v[vSize] = obj;
          vSize++;
 
