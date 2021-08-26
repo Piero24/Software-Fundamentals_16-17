@@ -67,5 +67,4 @@ public class ArStack implements Stack
    {
       return vSize;
    }
-
 }
