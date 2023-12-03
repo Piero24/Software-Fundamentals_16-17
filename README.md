@@ -5,9 +5,6 @@
 > University of Padua
 
 ---
-**Multilanguage**
-
-*Versions in other languages:* [English](https://github.com/Piero24/Software-Fundamentals_16-17/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/Software-Fundamentals_16-17/blob/main/README.md)
 
 ## Preparation exercises for the exam of Fundamentals of Computer Science
 
