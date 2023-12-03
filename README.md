@@ -1,5 +1,5 @@
-[![Last modified](https://img.shields.io/badge/Last%20modified-10--Aug--2021-red)](https://github.com/Piero24/F.SW16-17)
-# F.SW16-17
+[![Last modified](https://img.shields.io/badge/Last%20modified-10--Aug--2021-red)](https://github.com/Piero24/Software-Fundamentals_16-17)
+# Software-Fundamentals_16-17
 
 > anno accademico 2016-2017 (unipd)
 > Università degli studi di Padova
@@ -7,7 +7,7 @@
 ---
 **Multilanguage**
 
-*Versioni in altre lingue:* [English](https://github.com/Piero24/F.SW16-17/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/F.SW16-17/blob/main/README.md)
+*Versioni in altre lingue:* [English](https://github.com/Piero24/Software-Fundamentals_16-17/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/Software-Fundamentals_16-17/blob/main/README.md)
 
 ## Esercizi di preparazione all'esame di Fondamenti di Informatica
 
