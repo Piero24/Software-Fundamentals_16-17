@@ -1,53 +1,53 @@
 [![Last modified](https://img.shields.io/badge/Last%20modified-10--Aug--2021-red)](https://github.com/Piero24/Software-Fundamentals_16-17)
 # Software-Fundamentals_16-17
 
-> anno accademico 2016-2017 (unipd)
-> Università degli studi di Padova
+> academic year 2016-2017 (unipd)
+> University of Padua
 
 ---
 **Multilanguage**
 
-*Versioni in altre lingue:* [English](https://github.com/Piero24/Software-Fundamentals_16-17/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/Software-Fundamentals_16-17/blob/main/README.md)
+*Versions in other languages:* [English](https://github.com/Piero24/Software-Fundamentals_16-17/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/Software-Fundamentals_16-17/blob/main/README.md)
 
-## Esercizi di preparazione all'esame di Fondamenti di Informatica
+## Preparation exercises for the exam of Fundamentals of Computer Science
 
 
-Questi file sono i vari esercizi che possono essere richiesti all'esame di fondamenti di informatica.
-Qui è presente una raccolta con le relative soluzioni.
+These files are the various exercises that may be required in the computer science fundamentals exam.
+Here is a collection with related solutions.
 
-La prova consiste nello sviluppo dei vari metodi elencati.
+The test consists in the development of the various methods listed.
 
-E' inoltre presente una copia della simulazione d'esame fornita dal docente agli aluni.
+There is also a copy of the exam simulation provided by the teacher to the students.
 
 
 ## Disclaimer
 
 
-Questi esercizi devono essere utilizzati ESCLUSIVAMENTE per prepararsi in vista dell'esame.
+These exercises are to be used ONLY to prepare for the exam.
 
 
-**NON SONO IN ALCUN MODO RESPONSABILE DELL'UTILIZZO INPROPRIO DEL PRESENTE MATERIALE.**
+**I AM IN NO WAY RESPONSIBLE FOR THE IMPROPER USE OF THIS MATERIAL.**
 
 
-NON basarsi esclusivamente sui seguenti esercizi per la preparazione.
-In quanto il programma del corso potrebbe variare durante gli anni.
-Usare questo materiale solo ed esclusivamente per esercitarsi.
+NO rely solely on the following exercises for preparation.
+As the course program may vary over the years.
+Use this material only and exclusively for practice.
 
 
-## Descrizione
+## Description
 
 
-Sono presenti un esercizio per tipologia.
+There are one exercise by type.
 
-- Liste
-- Code
-- Doppie Code
-- Mappe
-- Dizionari
-- Insiemi
-- ecc..
+- Lists
+- Queue
+- Double Queues
+- Maps
+- Dictionaries
+- Sets
+- etc..
 
-Tutti i file sono scritti in Java.
+All files are written in Java.
 
 
 ### Authors and Copyright
@@ -56,4 +56,4 @@ Pietrobon Andrea
 
 ### Note
 
-Questo materiale **NON** verrà più aggiornato in futuro.
+This material will **NOT** be updated in the future.
